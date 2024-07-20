@@ -18,7 +18,7 @@ console.log(hundred.toLocaleString('en-IN'));
 console.log("Math");
 console.log(Math.random); // Always gives values between 0 and 1
 console.log(Math.abs(4));
-console.log(Math.abs(-4));
+console.log(Math.abs(-4));// convert always  only -ve value into positive
 console.log(Math.round(3.45));
 console.log(Math.ceil(5.8));
 console.log(Math.floor(5.6));
