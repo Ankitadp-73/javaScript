@@ -38,3 +38,35 @@ let somenum=44;
 let stringstr=String(somenum);
 console.log(stringstr);
 console.log(typeof(stringstr));
+
+
+
+//*************** OPERATIONS*************** */
+console.log("********");
+ let value=3
+ let neg=-value
+ console.log(neg);
+
+ console.log(2+2);
+ console.log(2-2);
+ console.log(2*2);
+ console.log(2**3);
+ console.log(2/2);
+ console.log(2%2);
+ console.log(2%3);
+
+console.log("**********");
+console.log("1"+ 2);
+console.log(1+"2");
+let s1="ANKITA";
+let s2="  DP";
+console.log(s1+s2);
+
+console.log(10+"2"+"3");
+console.log("10"+3+5);
+console.log(10+2+'3');
+
+console.log(true);
+console.log(+true);
+console.log(+"");
+// console.log(true+);
